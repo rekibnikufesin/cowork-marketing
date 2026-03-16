@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Sensitive files — if you fill in templates with real data, don't commit them
+# Uncomment these if you're using this repo for actual work (not just the template)
+# CLAUDE.md
+# .agents/product-marketing-context.md
+# memory/glossary.md
+# memory/projects/*.md
+# memory/context/*.md
